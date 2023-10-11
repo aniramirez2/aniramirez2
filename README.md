@@ -14,8 +14,8 @@
 💬 ¡Hablemos de código, recetas y experiencias! Vamos a explorar juntos este emocionante viaje. 😄✨
 
 ### Herramientas en las que me destaco:
-![Javascript](https://img.shields.io/badge/Lenguajes-javascript-yellow)
-![React](https://img.shields.io/badge/Framework-react-blue)
+![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
+![React](https://img.shields.io/badge/Framework-React-blue)
 ![Jira](https://img.shields.io/badge/Agile-Jira-green)
 
 ### [Conéctate conmigo 🌐](https://aniramirez2.github.io/)
