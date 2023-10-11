@@ -14,8 +14,8 @@
 
 ### Herramientas en las que me destaco:
 ![Javascript](https://img.shields.io/badge/Lenguajes-javascript-yellow)
-![React](https://img.shields.io/badge/framework-react-blue)
-![Jira](https://img.shields.io/badge/framework-agile-green)
+![React](https://img.shields.io/badge/Framework-react-blue)
+![Jira](https://img.shields.io/badge/Agile-Jira-green)
 
 [### Conéctate conmigo 🌐](https://aniramirez2.github.io/)
 
