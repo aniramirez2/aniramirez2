@@ -5,7 +5,7 @@
 
 🚀 Especializada en el mágico arte del desarrollo Front-end.
 
-💡 Siempre en busca de nuevos desafíos y aprendizaje constante. Me encanta descubrir los secretos del universo del software.
+💡 Siempre en busca de nuevos desafíos y aprendizaje constante. Me encanta descubrir los secretos del universo, la mente, el comportamiento humano y por supuesto del software.
 
 🍳 Cuando no estoy haciendo magia con el código, me convierto en una chef creativa en la cocina.
 
