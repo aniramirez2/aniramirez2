@@ -12,7 +12,10 @@
 
 💬 ¡Hablemos de código, recetas y experiencias! Vamos a explorar juntos este emocionante viaje. 😄✨
 
-### Conéctate conmigo 🌐
+### Herramientas en las que me destaco:
+![Javascript](https://img.shields.io/badge/etiqueta1-javascript-yellow)
+
+[### Conéctate conmigo 🌐](https://aniramirez2.github.io/)
 
 Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
 
