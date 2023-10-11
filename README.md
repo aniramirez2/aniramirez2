@@ -12,6 +12,14 @@
 
 💬 ¡Hablemos de código, recetas y experiencias! Vamos a explorar juntos este emocionante viaje. 😄✨
 
+### Conéctate conmigo 🌐
+
+Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
+
+📧 [Correo Electrónico](mailto:ramirezarboledaana@gmail.com)
+👔 [LinkedIn](https://www.linkedin.com/in/anaramireza)
+📷 [Instagram](https://www.instagram.com/anaramireza2)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
