@@ -1,4 +1,5 @@
-### Hola, Soy Ana Ramirez, un placer conocerte 👋
+### Hola, Soy Ana Ramirez, un placer conocerte 👋![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+
 
 👩‍💻 Ingeniera de Sistemas con 10 años de experiencia en el emocionante mundo del código.
 
