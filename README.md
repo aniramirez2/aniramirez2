@@ -17,7 +17,7 @@
 ![React](https://img.shields.io/badge/Framework-react-blue)
 ![Jira](https://img.shields.io/badge/Agile-Jira-green)
 
-[### Conéctate conmigo 🌐](https://aniramirez2.github.io/)
+### [Conéctate conmigo 🌐](https://aniramirez2.github.io/)
 
 Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
 
