@@ -1,4 +1,4 @@
-### Hi there, I'm Ana Ramirez, it's to meet you 👋
+### Hi there, I'm Ana Ramirez, it's a plesure to meet you 👋
 
 👩‍💻 Ingeniera de Sistemas con 10 años de experiencia en el emocionante mundo del código.
 
