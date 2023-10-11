@@ -25,7 +25,7 @@ Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
 👔 [LinkedIn](https://www.linkedin.com/in/anaramireza)
 📷 [Instagram](https://www.instagram.com/anaramireza2)
 
-[My GitHub stats](https://github-readme-stats.vercel.app/api?username=aniramirez2&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aniramirez2&show_icons=true&theme=gruvbox)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
